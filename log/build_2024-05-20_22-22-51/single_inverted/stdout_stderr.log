@@ -1,0 +1,38 @@
+running develop
+Removing /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single-inverted.egg-link (link to .)
+running egg_info
+writing ../build/single_inverted/single_inverted.egg-info/PKG-INFO
+writing dependency_links to ../build/single_inverted/single_inverted.egg-info/dependency_links.txt
+writing entry points to ../build/single_inverted/single_inverted.egg-info/entry_points.txt
+writing requirements to ../build/single_inverted/single_inverted.egg-info/requires.txt
+writing top-level names to ../build/single_inverted/single_inverted.egg-info/top_level.txt
+reading manifest file '../build/single_inverted/single_inverted.egg-info/SOURCES.txt'
+writing manifest file '../build/single_inverted/single_inverted.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted
+copying single_inverted/__init__.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted
+copying single_inverted/dynamics_sim.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted
+copying single_inverted/ex1.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted
+running install
+running install_lib
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted
+copying /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted/__init__.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted
+copying /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted/dynamics_sim.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted
+copying /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build/lib/single_inverted/ex1.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted
+byte-compiling /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted/dynamics_sim.py to dynamics_sim.cpython-38.pyc
+byte-compiling /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted/ex1.py to ex1.cpython-38.pyc
+running install_data
+copying resource/single_inverted -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/ament_index/resource_index/packages
+copying package.xml -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted
+copying launch/single_inverted_pendulum.launch.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/launch/
+copying config/config.rviz -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/config/
+running install_egg_info
+Copying ../build/single_inverted/single_inverted.egg-info to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single_inverted-0.0.0-py3.8.egg-info
+running install_scripts
+Installing controller script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/single_inverted
+Installing dynamics_sim script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/single_inverted
+writing list of installed files to '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/install.log'

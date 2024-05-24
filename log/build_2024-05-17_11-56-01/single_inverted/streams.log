@@ -1,0 +1,29 @@
+[0.518s] Invoking command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build --no-deps symlink_data
+[0.692s] running develop
+[0.804s] running egg_info
+[0.804s] creating single_inverted.egg-info
+[0.804s] writing single_inverted.egg-info/PKG-INFO
+[0.804s] writing dependency_links to single_inverted.egg-info/dependency_links.txt
+[0.805s] writing entry points to single_inverted.egg-info/entry_points.txt
+[0.805s] writing requirements to single_inverted.egg-info/requires.txt
+[0.805s] writing top-level names to single_inverted.egg-info/top_level.txt
+[0.806s] writing manifest file 'single_inverted.egg-info/SOURCES.txt'
+[0.827s] reading manifest file 'single_inverted.egg-info/SOURCES.txt'
+[0.828s] writing manifest file 'single_inverted.egg-info/SOURCES.txt'
+[0.850s] running build_ext
+[0.850s] Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/site.py
+[0.851s] Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single-inverted.egg-link (link to .)
+[0.852s] Installing dynamics_sim script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/single_inverted
+[0.852s] 
+[0.852s] Installed /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted
+[0.852s] running symlink_data
+[0.852s] creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/ament_index
+[0.852s] creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/ament_index/resource_index
+[0.852s] creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/ament_index/resource_index/packages
+[0.852s] symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/resource/single_inverted -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/ament_index/resource_index/packages
+[0.853s] symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/package.xml -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted
+[0.853s] creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/launch
+[0.853s] symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/launch/single_inverted_pendulum.launch.py -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/launch/
+[0.853s] creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/config
+[0.853s] symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/config/config.rviz -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/share/single_inverted/config/
+[0.873s] Invoked command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted' returned '0': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build --no-deps symlink_data
