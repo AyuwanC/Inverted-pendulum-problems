@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating double_inverted.egg-info
+writing double_inverted.egg-info/PKG-INFO
+writing dependency_links to double_inverted.egg-info/dependency_links.txt
+writing entry points to double_inverted.egg-info/entry_points.txt
+writing requirements to double_inverted.egg-info/requires.txt
+writing top-level names to double_inverted.egg-info/top_level.txt
+writing manifest file 'double_inverted.egg-info/SOURCES.txt'
+reading manifest file 'double_inverted.egg-info/SOURCES.txt'
+writing manifest file 'double_inverted.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/python3.8/site-packages/site.py
+Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/python3.8/site-packages/double-inverted.egg-link (link to .)
+Installing pendulum script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/double_inverted
+
+Installed /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted
+running symlink_data
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/share/ament_index
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/share/ament_index/resource_index
+creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/share/ament_index/resource_index/packages
+symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/resource/double_inverted -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/share/ament_index/resource_index/packages
+symbolically linking /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/package.xml -> /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/share/double_inverted

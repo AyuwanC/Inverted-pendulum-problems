@@ -1,0 +1,17 @@
+[0.717s] Invoking command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/build --no-deps symlink_data
+[0.906s] running develop
+[1.017s] running egg_info
+[1.017s] writing double_inverted.egg-info/PKG-INFO
+[1.018s] writing dependency_links to double_inverted.egg-info/dependency_links.txt
+[1.018s] writing entry points to double_inverted.egg-info/entry_points.txt
+[1.018s] writing requirements to double_inverted.egg-info/requires.txt
+[1.018s] writing top-level names to double_inverted.egg-info/top_level.txt
+[1.040s] reading manifest file 'double_inverted.egg-info/SOURCES.txt'
+[1.041s] writing manifest file 'double_inverted.egg-info/SOURCES.txt'
+[1.064s] running build_ext
+[1.064s] Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/python3.8/site-packages/double-inverted.egg-link (link to .)
+[1.065s] Installing dynamics script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/double_inverted
+[1.065s] 
+[1.065s] Installed /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted
+[1.065s] running symlink_data
+[1.105s] Invoked command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted' returned '0': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/double_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/double_inverted/build --no-deps symlink_data

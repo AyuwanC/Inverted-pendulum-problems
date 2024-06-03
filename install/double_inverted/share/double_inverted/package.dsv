@@ -1,0 +1,9 @@
+source;share/double_inverted/hook/pythonpath.ps1
+source;share/double_inverted/hook/pythonpath.dsv
+source;share/double_inverted/hook/pythonpath.sh
+source;share/double_inverted/hook/ament_prefix_path.ps1
+source;share/double_inverted/hook/ament_prefix_path.dsv
+source;share/double_inverted/hook/ament_prefix_path.sh
+source;../../build/double_inverted/share/double_inverted/hook/pythonpath_develop.ps1
+source;../../build/double_inverted/share/double_inverted/hook/pythonpath_develop.dsv
+source;../../build/double_inverted/share/double_inverted/hook/pythonpath_develop.sh

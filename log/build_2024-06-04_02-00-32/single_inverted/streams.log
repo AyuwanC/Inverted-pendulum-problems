@@ -1,0 +1,18 @@
+[0.704s] Invoking command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build --no-deps symlink_data
+[0.883s] running develop
+[0.991s] running egg_info
+[0.991s] writing single_inverted.egg-info/PKG-INFO
+[0.991s] writing dependency_links to single_inverted.egg-info/dependency_links.txt
+[0.991s] writing entry points to single_inverted.egg-info/entry_points.txt
+[0.991s] writing requirements to single_inverted.egg-info/requires.txt
+[0.991s] writing top-level names to single_inverted.egg-info/top_level.txt
+[1.013s] reading manifest file 'single_inverted.egg-info/SOURCES.txt'
+[1.014s] writing manifest file 'single_inverted.egg-info/SOURCES.txt'
+[1.038s] running build_ext
+[1.038s] Creating /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages/single-inverted.egg-link (link to .)
+[1.038s] Installing controller script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/single_inverted
+[1.039s] Installing dynamics_sim script to /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/single_inverted
+[1.039s] 
+[1.039s] Installed /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted
+[1.039s] running symlink_data
+[1.073s] Invoked command in '/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted' returned '0': PYTHONPATH=/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/prefix_override:/home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/install/single_inverted/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/ayuwan/Desktop/invpend/src/Inverted-pendulum-problems/build/single_inverted/build --no-deps symlink_data
